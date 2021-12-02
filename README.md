@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @wclenhardt
 - 👀 I’m interested in ... earth and environmental data science.
-- 🌱 I’m currently learning ... python
+<!--- 
+- 🌱 I’m currently learning ... python 
+--->
 
 
 <!---
